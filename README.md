@@ -9,7 +9,7 @@ Download Libs:
 ESP8266WiFi,ESPAsyncTCP,ESPAsyncWebServer,Adafruit_NeoPixel
 
 Board Settings:
-!(https://github.com/pyrrrrr/atst-light/blob/main/board.JPG)
+![](https://github.com/pyrrrrr/atst-light/blob/main/board.JPG)
 
 ## Update ATST
 
