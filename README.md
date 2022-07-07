@@ -12,6 +12,10 @@ Board Settings:
 
 ![](https://github.com/pyrrrrr/atst-light/blob/main/board.JPG)
 
+
+For more Informations.
+https://www.mikrocontroller-elektronik.de/nodemcu-esp8266-tutorial-wlan-board-arduino-ide/
+
 ## Update ATST
 
 Connect ATST via USB to your Computer
